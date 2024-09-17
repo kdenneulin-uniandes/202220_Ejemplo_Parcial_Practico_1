@@ -1,5 +1,8 @@
 # Ejemplo Parcial Práctico 1
 
+Katina Denneulin Roncancio
+202424854
+
 ## Instrucciones
 
 1. Haga un _fork_ de este repositorio
